@@ -76,4 +76,5 @@ O projeto está estruturado da seguinte maneira:
 
 ![Métodos Swagger](Imagens/projeto.png)
 
-
+## Resultado do teste - Saída 
+![Out](Imagens/output.png)
