@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using TestesUnitarios.Desafio;
+using TestesUnitarios.Desafio.Console.Services;
+
+public class Program
+{
+        static void Main(){}
+}
